@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+    background-image: url(https://c.wallhere.com/photos/8c/71/leaf_drop_wet_form-735808.jpg!d);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+    font-family: cursive;
+    font-size: 30px;
+    color: whitesmoke;
+}
